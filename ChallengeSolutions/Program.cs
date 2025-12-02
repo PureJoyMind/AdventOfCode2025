@@ -1,6 +1,6 @@
-﻿using Challenge01.Challenges.Ch01;
+﻿using ChallengeSolutions.Challenges.Ch01;
 
-namespace Challenge01;
+namespace ChallengeSolutions;
 
 class Program
 {

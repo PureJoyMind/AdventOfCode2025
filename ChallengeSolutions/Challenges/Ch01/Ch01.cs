@@ -1,4 +1,4 @@
-﻿namespace Challenge01.Challenges.Ch01;
+﻿namespace ChallengeSolutions.Challenges.Ch01;
 
 public class Ch01
 {
