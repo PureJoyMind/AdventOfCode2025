@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <None Update="inputs.txt">
+      <None Update="Challenges\Ch01\inputs.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
     </ItemGroup>
