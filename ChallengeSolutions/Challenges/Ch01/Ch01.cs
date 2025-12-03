@@ -1,6 +1,6 @@
 ﻿namespace ChallengeSolutions.Challenges.Ch01;
 
-public class Ch01
+public static class Ch01
 {
     /// <summary>
     /// A solution to the first challenge using circular linked lists.
